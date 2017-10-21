@@ -1,0 +1,6 @@
+gcloud
+
+python3
+pyyaml
+
+R
